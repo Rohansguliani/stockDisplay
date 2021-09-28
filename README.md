@@ -1,5 +1,5 @@
 # stockDisplay
-Stock list display website.
+Equity list display website called Equima (Equity Manager)
 
 The goal of this website is to be a customizable one-stop-shop for viewing and updating stock lists.
 
